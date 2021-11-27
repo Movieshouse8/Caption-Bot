@@ -1,5 +1,5 @@
 {
-  "name": "Caption Bot [ Avishkar Patil ]",
+  "name": "Caption Bot [ Kunal nagar]",
   "description": "Telegram auto caption bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -8,8 +8,8 @@
     "caption" 
   ],
   "success_url": "https://telegram.com/capxbot",
-  "website": "https://github.com/avipatilpro/Caption-Bot",
-  "repository": "https://github.com/avipatilpro/Caption-Bot",
+  "website": "https://github.com/movieshouse8/Caption-Bot",
+  "repository": "https://github.com/movieshouse8/Caption-Bot",
   "logo": "https://telegra.ph/file/a3e95bf96275cb37844b1.jpg",
   "env": {
     "WEBHOOK": {
@@ -39,7 +39,7 @@
     },
     "ADMIN_USERNAME": {
       "description": "Admin username without [@], Default will be Ts_bots",
-      "value": "AvishkarPatil", 
+      "value": "kunal_nagar_01", 
       "required": false
     }        
     
